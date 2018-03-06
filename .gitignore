@@ -1,0 +1,4 @@
+images/*.img
+images/*.initrd
+images/*.vmlinuz
+images/*.tgz
