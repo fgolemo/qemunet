@@ -3,6 +3,12 @@ QemuNet
 
 *QemuNet is a light shell script based on QEMU and VDE to enable easy virtual networking.* 
 
+### Attribution ###
+
+THIS REPOSITORY IS A MIRROR OF https://gitlab.inria.fr/esnard/qemunet/
+The reason I created this mirror is that some of my students couldn't access the URL above. This seems to be fixed now. before cloning or forking this repo, please see if you can access the original. I have no making in either the original code nor this mirror and i am just providing this for convenience.
+
+
 ### Requirements ###
 
 First of all, the QemuNet script is written in *Bash* version greater than or equal to 4. Then, you can install all the QemuNet dependencies in a Debian-like OS, as follow: 
