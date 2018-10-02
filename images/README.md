@@ -1,1 +1,0 @@
-Default empty directory to store system images.
